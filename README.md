@@ -11,10 +11,12 @@
 * JPEG
 * TIF
 
-clone the git repo with
+clone this repo with following command
 ```
 git clone https://github.com/sachinchavan9/image-encode-decode.git
 ```
+
+### Usage
 
 ```
 python img_to_base64.py -h
