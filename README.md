@@ -4,14 +4,14 @@
 
 ### Supprted image format is:
 
-* jpg
-* png
-* jpeg
-* JPG
-* JPEG
-* TIF
+* _*jpg*_
+* _*png*_
+* _*jpeg*_
+* _*JPG*_
+* _*JPEG*_
+* _*TIF*_
 
-clone this repo with following command
+#### Clone this repo with following command
 ```
 git clone https://github.com/sachinchavan9/image-encode-decode.git
 ```
