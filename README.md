@@ -4,12 +4,12 @@
 
 ### Supprted image format is:
 
-* _*jpg*_
-* _*png*_
-* _*jpeg*_
-* _*JPG*_
-* _*JPEG*_
-* _*TIF*_
+* _**jpg**_
+* _**png**_
+* _**jpeg**_
+* _**JPG**_
+* _**JPEG**_
+* _**TIF**_
 
 #### Clone this repo with following command
 ```
