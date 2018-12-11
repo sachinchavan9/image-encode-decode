@@ -19,8 +19,8 @@ git clone https://github.com/sachinchavan9/image-encode-decode.git
 ### Usage
 
 ```
-python img_to_base64.py -h
-usage: img_to_base64.py [-h] [-i IMG]
+python img2b64.py -h
+usage: img2b64.py [-h] [-i IMG]
 
 Convert Image into base64 format, supported format is jpg and png.
 
