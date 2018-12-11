@@ -1,1 +1,4 @@
 *.pyc
+build/
+dist/
+img2b64.egg-info/
