@@ -11,15 +11,16 @@
 * _**JPEG**_
 * _**TIF**_
 
-#### Clone this repo with following command
+### Install Package
+Install package from
+[pypi.org](https://pypi.org/project/img2b64/)
 ```
-git clone https://github.com/sachinchavan9/image-encode-decode.git
+pip install img2b64
 ```
-
 ### Usage
 
 ```
-python img2b64.py -h
+img2b64.py -h
 usage: img2b64.py [-h] [-i IMG]
 
 Convert Image into base64 format, supported format is jpg and png.
